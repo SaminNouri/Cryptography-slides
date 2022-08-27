@@ -1,6 +1,0 @@
-\beamer@sectionintoc {1}{Testing Interleaved Linear Codes}{1}{0}{1}
-\beamer@sectionintoc {2}{Testing Linear Constraints over Interleaved Reed-Solomon Codes}{5}{0}{2}
-\beamer@sectionintoc {3}{Testing Quadratic Constraints over Interleaved Reed-Solomon Codes}{9}{0}{3}
-\beamer@sectionintoc {4}{Summary}{13}{0}{4}
-\beamer@sectionintoc {5}{Idea}{24}{0}{5}
-\beamer@sectionintoc {6}{Reading list for next week}{27}{0}{6}
