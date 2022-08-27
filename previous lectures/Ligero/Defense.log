@@ -1,9 +1,9 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.4.7)  27 AUG 2022 21:39
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.4.7)  27 AUG 2022 21:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**Univarate-Sum-Check.tex
-(./Univarate-Sum-Check.tex
+**Defense.tex
+(./Defense.tex
 LaTeX2e <2020-02-02> patch level 5
 L3 programming layer <2020-03-06>
 (/usr/local/texlive/2020/texmf-dist/tex/latex/beamer/beamer.cls
@@ -1278,7 +1278,7 @@ orted.
 
 ))
 
-Package array Warning: Column C is already defined on input line 237.
+Package array Warning: Column C is already defined on input line 238.
 
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/threeparttable/threeparttable.sty
@@ -1581,35 +1581,34 @@ Package: inlinedef 2008/07/10 v1.0 Inlined expansions within definitions
 (/usr/local/texlive/2020/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
 )
-(./Univarate-Sum-Check.aux)
-\openout1 = `Univarate-Sum-Check.aux'.
+(./Defense.aux)
+\openout1 = `Defense.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 703.
-LaTeX Font Info:    ... okay on input line 703.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 703.
-LaTeX Font Info:    ... okay on input line 703.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 703.
-LaTeX Font Info:    ... okay on input line 703.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 703.
-LaTeX Font Info:    ... okay on input line 703.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 703.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 705.
+LaTeX Font Info:    ... okay on input line 705.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 705.
+LaTeX Font Info:    ... okay on input line 705.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 705.
+LaTeX Font Info:    ... okay on input line 705.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 705.
+LaTeX Font Info:    ... okay on input line 705.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 705.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 7
-03.
-
-(/usr/local/texlive/2020/texmf-dist/tex/latex/base/ts1cmr.fd
+05.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 703.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 703.
-LaTeX Font Info:    ... okay on input line 703.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 703.
-LaTeX Font Info:    ... okay on input line 703.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 703.
-LaTeX Font Info:    ... okay on input line 703.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 703.
-LaTeX Font Info:    ... okay on input line 703.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 703.
-LaTeX Font Info:    ... okay on input line 703.
+LaTeX Font Info:    ... okay on input line 705.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 705.
+LaTeX Font Info:    ... okay on input line 705.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 705.
+LaTeX Font Info:    ... okay on input line 705.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 705.
+LaTeX Font Info:    ... okay on input line 705.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 705.
+LaTeX Font Info:    ... okay on input line 705.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 705.
+LaTeX Font Info:    ... okay on input line 705.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -1647,7 +1646,7 @@ LaTeX Font Info:    ... okay on input line 703.
 
 ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box175
-Package hyperref Info: Link coloring OFF on input line 703.
+Package hyperref Info: Link coloring OFF on input line 705.
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
@@ -1661,55 +1660,55 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count439
 )
-LaTeX Info: Redefining \ref on input line 703.
-LaTeX Info: Redefining \pageref on input line 703.
-LaTeX Info: Redefining \nameref on input line 703.
- (./Univarate-Sum-Check.out) (./Univarate-Sum-Check.out)
+LaTeX Info: Redefining \ref on input line 705.
+LaTeX Info: Redefining \pageref on input line 705.
+LaTeX Info: Redefining \nameref on input line 705.
+ (./Defense.out) (./Defense.out)
 \@outlinefile=\write6
-\openout6 = `Univarate-Sum-Check.out'.
+\openout6 = `Defense.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 703.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 705.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 703.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 705.
 \symnumbers=\mathgroup7
 \sympureletters=\mathgroup8
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> T1/lmr/m/n on input line 703.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 703.
+(Font)                  OT1/cmss/m/n --> T1/lmr/m/n on input line 705.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 705.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> T1/lmss/b/n on input line 703.
+(Font)                  OT1/cmr/bx/n --> T1/lmss/b/n on input line 705.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> T1/lmss/b/n on input line 703.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 703.
+(Font)                  OT1/cmr/bx/n --> T1/lmss/b/n on input line 705.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 705.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> T1/lmss/m/n on input line 703.
+(Font)                  OT1/cmss/m/n --> T1/lmss/m/n on input line 705.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> T1/lmss/m/n on input line 703.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 703.
+(Font)                  OT1/cmss/bx/n --> T1/lmss/m/n on input line 705.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 705.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> T1/lmss/m/it on input line 703.
+(Font)                  OT1/cmr/m/it --> T1/lmss/m/it on input line 705.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> T1/lmss/m/it on input line 703.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 703.
+(Font)                  OT1/cmr/bx/it --> T1/lmss/m/it on input line 705.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 705.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> T1/lmtt/m/n on input line 703.
+(Font)                  OT1/cmtt/m/n --> T1/lmtt/m/n on input line 705.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> T1/lmtt/m/n on input line 703.
+(Font)                  OT1/cmtt/m/n --> T1/lmtt/m/n on input line 705.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  T1/lmss/m/n --> T1/lmss/b/n on input line 703.
+(Font)                  T1/lmss/m/n --> T1/lmss/b/n on input line 705.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  T1/lmss/m/it --> T1/lmss/b/it on input line 703.
+(Font)                  T1/lmss/m/it --> T1/lmss/b/it on input line 705.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/b/n --> T1/lmr/b/n on input line 703.
+(Font)                  OT1/cmss/b/n --> T1/lmr/b/n on input line 705.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  T1/lmss/b/n --> T1/lmss/b/n on input line 703.
+(Font)                  T1/lmss/b/n --> T1/lmss/b/n on input line 705.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  T1/lmss/m/n --> T1/lmss/b/n on input line 703.
+(Font)                  T1/lmss/m/n --> T1/lmss/b/n on input line 705.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  T1/lmss/m/it --> T1/lmss/b/it on input line 703.
+(Font)                  T1/lmss/m/it --> T1/lmss/b/it on input line 705.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  T1/lmtt/m/n --> T1/lmtt/b/n on input line 703.
+(Font)                  T1/lmtt/m/n --> T1/lmtt/b/n on input line 705.
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/translator/translator-basic-dicti
 onary-English.dict
@@ -1743,289 +1742,851 @@ Package caption Info: End \AtBeginDocument code.
 (/usr/local/texlive/2020/texmf-dist/tex/latex/siunitx/siunitx-abbreviations.cfg
 File: siunitx-abbreviations.cfg 2017/11/26 v2.7k siunitx: Abbreviated units
 ) ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 703.
- (./Univarate-Sum-Check.nav)
-Overfull \vbox (1.13417pt too high) detected at line 703
+LaTeX Info: Redefining \selectfont on input line 705.
+ (./Defense.nav)
+Overfull \hbox (17.4586pt too wide) in paragraph at lines 705--705
+ [][][][] 
  []
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 703
+
+Overfull \hbox (3.33537pt too wide) detected at line 705
+  []\T1/lmss/m/n/6 Testing Linear Constraints over Interleaved Reed-Solomon Cod
+es[] 
+ []
+
+
+Overfull \hbox (13.40857pt too wide) detected at line 705
+  []\T1/lmss/m/n/6 Testing Quadratic Constraints over Interleaved Reed-Solomon 
+Codes[] 
+ []
+
+
+Overfull \vbox (0.63403pt too high) detected at line 705
+ []
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 705
 .
 (/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 703
+LaTeX Font Info:    Trying to load font information for U+msb on input line 705
 .
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Trying to load font information for U+rsfs on input line 70
-3.
+5.
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/jknapltx/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10.95> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 703.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 705.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <8> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 703.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 705.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <6> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 703.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 705.
 LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 7
-03.
+05.
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-File: logo.png Graphic file (type bmp)
-<logo.png>
+Overfull \hbox (3.33537pt too wide) has occurred while \output is active
+  []\T1/lmss/m/n/6 Testing Linear Constraints over Interleaved Reed-Solomon Cod
+es[] 
+ []
 
-Overfull \vbox (1.13417pt too high) has occurred while \output is active []
 
+Overfull \hbox (13.40857pt too wide) has occurred while \output is active
+  []\T1/lmss/m/n/6 Testing Quadratic Constraints over Interleaved Reed-Solomon 
+Codes[] 
+ []
+
+
+Overfull \vbox (0.63403pt too high) has occurred while \output is active []
+
+
+Overfull \hbox (17.4586pt too wide) has occurred while \output is active
+ [][][][] 
+ []
 
 [1
 
-] (./Univarate-Sum-Check.toc)
-Overfull \vbox (1.13417pt too high) has occurred while \output is active []
+]
+File: 2.jpg Graphic file (type bmp)
+<2.jpg>
 
+Overfull \hbox (169.5505pt too wide) in paragraph at lines 714--714
+[][] 
+ []
+
+
+Overfull \hbox (3.33537pt too wide) has occurred while \output is active
+  []\T1/lmss/m/n/6 Testing Linear Constraints over Interleaved Reed-Solomon Cod
+es[] 
+ []
+
+
+Overfull \hbox (13.40857pt too wide) has occurred while \output is active
+  []\T1/lmss/m/n/6 Testing Quadratic Constraints over Interleaved Reed-Solomon 
+Codes[] 
+ []
+
+
+Overfull \vbox (0.63403pt too high) has occurred while \output is active []
+
+
+Overfull \hbox (17.4586pt too wide) has occurred while \output is active
+ [][][][] 
+ []
 
 [2
 
 ]
-Overfull \vbox (1.13417pt too high) has occurred while \output is active []
+File: 1.jpg Graphic file (type bmp)
+<1.jpg>
 
+Overfull \hbox (140.14664pt too wide) in paragraph at lines 720--720
+[][] 
+ []
+
+
+Overfull \hbox (3.33537pt too wide) has occurred while \output is active
+  []\T1/lmss/m/n/6 Testing Linear Constraints over Interleaved Reed-Solomon Cod
+es[] 
+ []
+
+
+Overfull \hbox (13.40857pt too wide) has occurred while \output is active
+  []\T1/lmss/m/n/6 Testing Quadratic Constraints over Interleaved Reed-Solomon 
+Codes[] 
+ []
+
+
+Overfull \vbox (0.63403pt too high) has occurred while \output is active []
+
+
+Overfull \hbox (17.4586pt too wide) has occurred while \output is active
+ [][][][] 
+ []
 
 [3
 
 ]
-File: t2.png Graphic file (type bmp)
-<t2.png>
+File: 3.png Graphic file (type bmp)
+<3.png>
 
-Overfull \hbox (131.80113pt too wide) in paragraph at lines 754--754
+Overfull \hbox (142.65604pt too wide) in paragraph at lines 726--726
 [][] 
  []
 
 
-Overfull \vbox (1.13417pt too high) has occurred while \output is active []
+Overfull \hbox (3.33537pt too wide) has occurred while \output is active
+  []\T1/lmss/m/n/6 Testing Linear Constraints over Interleaved Reed-Solomon Cod
+es[] 
+ []
 
+
+Overfull \hbox (13.40857pt too wide) has occurred while \output is active
+  []\T1/lmss/m/n/6 Testing Quadratic Constraints over Interleaved Reed-Solomon 
+Codes[] 
+ []
+
+
+Overfull \vbox (0.63403pt too high) has occurred while \output is active []
+
+
+Overfull \hbox (17.4586pt too wide) has occurred while \output is active
+ [][][][] 
+ []
 
 [4
 
 ]
-File: u1.png Graphic file (type bmp)
-<u1.png>
-
-Overfull \hbox (81.9876pt too wide) in paragraph at lines 762--762
-[][] 
+Overfull \hbox (3.33537pt too wide) has occurred while \output is active
+  \T1/lmss/m/n/6 Testing Linear Constraints over Interleaved Reed-Solomon Codes
+ 
  []
 
 
-Overfull \vbox (1.13417pt too high) has occurred while \output is active []
+Overfull \hbox (13.40857pt too wide) has occurred while \output is active
+  []\T1/lmss/m/n/6 Testing Quadratic Constraints over Interleaved Reed-Solomon 
+Codes[] 
+ []
 
+
+Overfull \vbox (0.63403pt too high) has occurred while \output is active []
+
+
+Overfull \hbox (17.4586pt too wide) has occurred while \output is active
+ [][][][] 
+ []
 
 [5
 
 ]
-Overfull \vbox (1.13417pt too high) has occurred while \output is active []
+File: 5.png Graphic file (type bmp)
+<5.png>
 
+Overfull \hbox (153.40666pt too wide) in paragraph at lines 736--736
+[][] 
+ []
+
+
+Overfull \hbox (3.33537pt too wide) has occurred while \output is active
+  \T1/lmss/m/n/6 Testing Linear Constraints over Interleaved Reed-Solomon Codes
+ 
+ []
+
+
+Overfull \hbox (13.40857pt too wide) has occurred while \output is active
+  []\T1/lmss/m/n/6 Testing Quadratic Constraints over Interleaved Reed-Solomon 
+Codes[] 
+ []
+
+
+Overfull \vbox (0.63403pt too high) has occurred while \output is active []
+
+
+Overfull \hbox (17.4586pt too wide) has occurred while \output is active
+ [][][][] 
+ []
 
 [6
 
 ]
-File: u2.png Graphic file (type bmp)
-<u2.png>
+File: 4.png Graphic file (type bmp)
+<4.png>
 
-Overfull \hbox (82.23854pt too wide) in paragraph at lines 772--772
+Overfull \hbox (71.0482pt too wide) in paragraph at lines 743--743
 [][] 
  []
 
 
-Overfull \vbox (1.13417pt too high) has occurred while \output is active []
+Overfull \hbox (3.33537pt too wide) has occurred while \output is active
+  \T1/lmss/m/n/6 Testing Linear Constraints over Interleaved Reed-Solomon Codes
+ 
+ []
 
+
+Overfull \hbox (13.40857pt too wide) has occurred while \output is active
+  []\T1/lmss/m/n/6 Testing Quadratic Constraints over Interleaved Reed-Solomon 
+Codes[] 
+ []
+
+
+Overfull \vbox (0.63403pt too high) has occurred while \output is active []
+
+
+Overfull \hbox (17.4586pt too wide) has occurred while \output is active
+ [][][][] 
+ []
 
 [7
 
 ]
-Overfull \vbox (1.13417pt too high) has occurred while \output is active []
+File: 8.png Graphic file (type bmp)
+<8.png>
 
+Overfull \hbox (138.45349pt too wide) in paragraph at lines 751--751
+[][] 
+ []
+
+
+Overfull \hbox (3.33537pt too wide) has occurred while \output is active
+  \T1/lmss/m/n/6 Testing Linear Constraints over Interleaved Reed-Solomon Codes
+ 
+ []
+
+
+Overfull \hbox (13.40857pt too wide) has occurred while \output is active
+  []\T1/lmss/m/n/6 Testing Quadratic Constraints over Interleaved Reed-Solomon 
+Codes[] 
+ []
+
+
+Overfull \vbox (0.63403pt too high) has occurred while \output is active []
+
+
+Overfull \hbox (17.4586pt too wide) has occurred while \output is active
+ [][][][] 
+ []
 
 [8
 
 ]
-File: u3.png Graphic file (type bmp)
-<u3.png>
-
-Overfull \hbox (81.9876pt too wide) in paragraph at lines 783--783
-[][] 
+Overfull \hbox (3.33537pt too wide) has occurred while \output is active
+  []\T1/lmss/m/n/6 Testing Linear Constraints over Interleaved Reed-Solomon Cod
+es[] 
  []
 
 
-Overfull \vbox (1.13417pt too high) has occurred while \output is active []
+Overfull \hbox (13.40857pt too wide) has occurred while \output is active
+  \T1/lmss/m/n/6 Testing Quadratic Constraints over Interleaved Reed-Solomon Co
+des 
+ []
 
+
+Overfull \vbox (0.63403pt too high) has occurred while \output is active []
+
+
+Overfull \hbox (17.4586pt too wide) has occurred while \output is active
+ [][][][] 
+ []
 
 [9
 
 ]
-Overfull \vbox (1.13417pt too high) has occurred while \output is active []
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 76
+1.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/lm/t1lmr.fd
+File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+Overfull \hbox (3.33537pt too wide) has occurred while \output is active
+  []\T1/lmss/m/n/6 Testing Linear Constraints over Interleaved Reed-Solomon Cod
+es[] 
+ []
 
+
+Overfull \hbox (13.40857pt too wide) has occurred while \output is active
+  \T1/lmss/m/n/6 Testing Quadratic Constraints over Interleaved Reed-Solomon Co
+des 
+ []
+
+
+Overfull \vbox (0.63403pt too high) has occurred while \output is active []
+
+
+Overfull \hbox (17.4586pt too wide) has occurred while \output is active
+ [][][][] 
+ []
 
 [10
 
 ]
-File: t7.png Graphic file (type bmp)
-<t7.png>
+File: 6.png Graphic file (type bmp)
+<6.png>
 
-Overfull \hbox (207.01419pt too wide) in paragraph at lines 791--791
+Overfull \hbox (22.62009pt too wide) in paragraph at lines 771--771
 [][] 
  []
 
 
-Overfull \vbox (1.13417pt too high) has occurred while \output is active []
+Overfull \hbox (3.33537pt too wide) has occurred while \output is active
+  []\T1/lmss/m/n/6 Testing Linear Constraints over Interleaved Reed-Solomon Cod
+es[] 
+ []
 
+
+Overfull \hbox (13.40857pt too wide) has occurred while \output is active
+  \T1/lmss/m/n/6 Testing Quadratic Constraints over Interleaved Reed-Solomon Co
+des 
+ []
+
+
+Overfull \vbox (0.63403pt too high) has occurred while \output is active []
+
+
+Overfull \hbox (17.4586pt too wide) has occurred while \output is active
+ [][][][] 
+ []
 
 [11
 
 ]
-Overfull \vbox (1.13417pt too high) has occurred while \output is active []
+File: 7.png Graphic file (type bmp)
+<7.png>
 
+Overfull \hbox (97.75627pt too wide) in paragraph at lines 779--779
+[][] 
+ []
+
+
+Overfull \hbox (3.33537pt too wide) has occurred while \output is active
+  []\T1/lmss/m/n/6 Testing Linear Constraints over Interleaved Reed-Solomon Cod
+es[] 
+ []
+
+
+Overfull \hbox (13.40857pt too wide) has occurred while \output is active
+  \T1/lmss/m/n/6 Testing Quadratic Constraints over Interleaved Reed-Solomon Co
+des 
+ []
+
+
+Overfull \vbox (0.63403pt too high) has occurred while \output is active []
+
+
+Overfull \hbox (17.4586pt too wide) has occurred while \output is active
+ [][][][] 
+ []
 
 [12
 
 ]
-File: t8.png Graphic file (type bmp)
-<t8.png>
-
-Overfull \hbox (194.06505pt too wide) in paragraph at lines 802--802
-[][] 
+Overfull \hbox (3.33537pt too wide) has occurred while \output is active
+  []\T1/lmss/m/n/6 Testing Linear Constraints over Interleaved Reed-Solomon Cod
+es[] 
  []
 
 
-Overfull \vbox (1.13417pt too high) has occurred while \output is active []
+Overfull \hbox (13.40857pt too wide) has occurred while \output is active
+  []\T1/lmss/m/n/6 Testing Quadratic Constraints over Interleaved Reed-Solomon 
+Codes[] 
+ []
 
+
+Overfull \vbox (0.63403pt too high) has occurred while \output is active []
+
+
+Overfull \hbox (17.4586pt too wide) has occurred while \output is active
+ [][][][] 
+ []
 
 [13
 
 ]
-File: t5.png Graphic file (type bmp)
-<t5.png>
+File: l1.png Graphic file (type bmp)
+<l1.png>
 
-Overfull \hbox (195.42018pt too wide) in paragraph at lines 809--809
+Overfull \hbox (144.70923pt too wide) in paragraph at lines 787--787
 [][] 
  []
 
 
-Overfull \vbox (1.13417pt too high) has occurred while \output is active []
+Overfull \hbox (3.33537pt too wide) has occurred while \output is active
+  []\T1/lmss/m/n/6 Testing Linear Constraints over Interleaved Reed-Solomon Cod
+es[] 
+ []
 
+
+Overfull \hbox (13.40857pt too wide) has occurred while \output is active
+  []\T1/lmss/m/n/6 Testing Quadratic Constraints over Interleaved Reed-Solomon 
+Codes[] 
+ []
+
+
+Overfull \vbox (0.63403pt too high) has occurred while \output is active []
+
+
+Overfull \hbox (17.4586pt too wide) has occurred while \output is active
+ [][][][] 
+ []
 
 [14
 
 ]
-File: t3.png Graphic file (type bmp)
-<t3.png>
+File: l2.png Graphic file (type bmp)
+<l2.png>
 
-Overfull \hbox (177.50218pt too wide) in paragraph at lines 817--817
+Overfull \hbox (124.2221pt too wide) in paragraph at lines 794--794
 [][] 
  []
 
 
-Overfull \vbox (1.13417pt too high) has occurred while \output is active []
+Overfull \hbox (3.33537pt too wide) has occurred while \output is active
+  []\T1/lmss/m/n/6 Testing Linear Constraints over Interleaved Reed-Solomon Cod
+es[] 
+ []
 
+
+Overfull \hbox (13.40857pt too wide) has occurred while \output is active
+  []\T1/lmss/m/n/6 Testing Quadratic Constraints over Interleaved Reed-Solomon 
+Codes[] 
+ []
+
+
+Overfull \vbox (0.63403pt too high) has occurred while \output is active []
+
+
+Overfull \hbox (17.4586pt too wide) has occurred while \output is active
+ [][][][] 
+ []
 
 [15
 
 ]
-Overfull \vbox (1.13417pt too high) has occurred while \output is active []
+File: l3.png Graphic file (type bmp)
+<l3.png>
 
+Overfull \hbox (152.1472pt too wide) in paragraph at lines 800--800
+[][] 
+ []
+
+
+Overfull \hbox (3.33537pt too wide) has occurred while \output is active
+  []\T1/lmss/m/n/6 Testing Linear Constraints over Interleaved Reed-Solomon Cod
+es[] 
+ []
+
+
+Overfull \hbox (13.40857pt too wide) has occurred while \output is active
+  []\T1/lmss/m/n/6 Testing Quadratic Constraints over Interleaved Reed-Solomon 
+Codes[] 
+ []
+
+
+Overfull \vbox (0.63403pt too high) has occurred while \output is active []
+
+
+Overfull \hbox (17.4586pt too wide) has occurred while \output is active
+ [][][][] 
+ []
 
 [16
 
 ]
-File: t4.png Graphic file (type bmp)
-<t4.png>
+File: l4.png Graphic file (type bmp)
+<l4.png>
 
-Overfull \hbox (203.09932pt too wide) in paragraph at lines 825--825
+Overfull \hbox (162.97798pt too wide) in paragraph at lines 806--806
 [][] 
  []
 
 
-Overfull \vbox (1.02907pt too high) detected at line 825
+Overfull \hbox (3.33537pt too wide) has occurred while \output is active
+  []\T1/lmss/m/n/6 Testing Linear Constraints over Interleaved Reed-Solomon Cod
+es[] 
  []
 
 
-Overfull \vbox (1.13417pt too high) has occurred while \output is active []
+Overfull \hbox (13.40857pt too wide) has occurred while \output is active
+  []\T1/lmss/m/n/6 Testing Quadratic Constraints over Interleaved Reed-Solomon 
+Codes[] 
+ []
 
+
+Overfull \vbox (0.63403pt too high) has occurred while \output is active []
+
+
+Overfull \hbox (17.4586pt too wide) has occurred while \output is active
+ [][][][] 
+ []
 
 [17
 
 ]
-Overfull \vbox (1.13417pt too high) has occurred while \output is active []
+File: l5.png Graphic file (type bmp)
+<l5.png>
 
+Overfull \hbox (145.23119pt too wide) in paragraph at lines 812--812
+[][] 
+ []
+
+
+Overfull \hbox (3.33537pt too wide) has occurred while \output is active
+  []\T1/lmss/m/n/6 Testing Linear Constraints over Interleaved Reed-Solomon Cod
+es[] 
+ []
+
+
+Overfull \hbox (13.40857pt too wide) has occurred while \output is active
+  []\T1/lmss/m/n/6 Testing Quadratic Constraints over Interleaved Reed-Solomon 
+Codes[] 
+ []
+
+
+Overfull \vbox (0.63403pt too high) has occurred while \output is active []
+
+
+Overfull \hbox (17.4586pt too wide) has occurred while \output is active
+ [][][][] 
+ []
 
 [18
 
 ]
-File: p2.png Graphic file (type bmp)
-<p2.png>
+File: l6.png Graphic file (type bmp)
+<l6.png>
 
-Overfull \hbox (168.69075pt too wide) in paragraph at lines 835--835
+Overfull \hbox (161.15111pt too wide) in paragraph at lines 818--818
 [][] 
  []
 
 
-Overfull \vbox (1.13417pt too high) has occurred while \output is active []
+Overfull \hbox (3.33537pt too wide) has occurred while \output is active
+  []\T1/lmss/m/n/6 Testing Linear Constraints over Interleaved Reed-Solomon Cod
+es[] 
+ []
 
+
+Overfull \hbox (13.40857pt too wide) has occurred while \output is active
+  []\T1/lmss/m/n/6 Testing Quadratic Constraints over Interleaved Reed-Solomon 
+Codes[] 
+ []
+
+
+Overfull \vbox (0.63403pt too high) has occurred while \output is active []
+
+
+Overfull \hbox (17.4586pt too wide) has occurred while \output is active
+ [][][][] 
+ []
 
 [19
 
 ]
-File: p1.png Graphic file (type bmp)
-<p1.png>
+File: l7.png Graphic file (type bmp)
+<l7.png>
 
-Overfull \hbox (165.30292pt too wide) in paragraph at lines 841--841
+Overfull \hbox (141.7079pt too wide) in paragraph at lines 824--824
 [][] 
  []
 
 
-Overfull \vbox (1.13417pt too high) has occurred while \output is active []
+Overfull \hbox (3.33537pt too wide) has occurred while \output is active
+  []\T1/lmss/m/n/6 Testing Linear Constraints over Interleaved Reed-Solomon Cod
+es[] 
+ []
 
+
+Overfull \hbox (13.40857pt too wide) has occurred while \output is active
+  []\T1/lmss/m/n/6 Testing Quadratic Constraints over Interleaved Reed-Solomon 
+Codes[] 
+ []
+
+
+Overfull \vbox (0.63403pt too high) has occurred while \output is active []
+
+
+Overfull \hbox (17.4586pt too wide) has occurred while \output is active
+ [][][][] 
+ []
 
 [20
 
 ]
-File: p3.png Graphic file (type bmp)
-<p3.png>
+File: l8.png Graphic file (type bmp)
+<l8.png>
 
-Overfull \hbox (171.57668pt too wide) in paragraph at lines 848--848
+Overfull \hbox (161.54256pt too wide) in paragraph at lines 830--830
 [][] 
  []
 
 
-Overfull \vbox (1.13417pt too high) has occurred while \output is active []
+Overfull \hbox (3.33537pt too wide) has occurred while \output is active
+  []\T1/lmss/m/n/6 Testing Linear Constraints over Interleaved Reed-Solomon Cod
+es[] 
+ []
 
+
+Overfull \hbox (13.40857pt too wide) has occurred while \output is active
+  []\T1/lmss/m/n/6 Testing Quadratic Constraints over Interleaved Reed-Solomon 
+Codes[] 
+ []
+
+
+Overfull \vbox (0.63403pt too high) has occurred while \output is active []
+
+
+Overfull \hbox (17.4586pt too wide) has occurred while \output is active
+ [][][][] 
+ []
 
 [21
 
 ]
-File: p4.png Graphic file (type bmp)
-<p4.png>
+File: l9.png Graphic file (type bmp)
+<l9.png>
 
-Overfull \hbox (164.80103pt too wide) in paragraph at lines 854--854
+Overfull \hbox (184.24803pt too wide) in paragraph at lines 837--837
 [][] 
  []
 
 
-Overfull \vbox (1.13417pt too high) has occurred while \output is active []
+Overfull \hbox (3.33537pt too wide) has occurred while \output is active
+  []\T1/lmss/m/n/6 Testing Linear Constraints over Interleaved Reed-Solomon Cod
+es[] 
+ []
 
+
+Overfull \hbox (13.40857pt too wide) has occurred while \output is active
+  []\T1/lmss/m/n/6 Testing Quadratic Constraints over Interleaved Reed-Solomon 
+Codes[] 
+ []
+
+
+Overfull \vbox (0.63403pt too high) has occurred while \output is active []
+
+
+Overfull \hbox (17.4586pt too wide) has occurred while \output is active
+ [][][][] 
+ []
 
 [22
 
 ]
-File: p5.png Graphic file (type bmp)
-<p5.png>
+File: l10.png Graphic file (type bmp)
+<l10.png>
 
-Overfull \hbox (150.62234pt too wide) in paragraph at lines 861--861
+Overfull \hbox (184.24803pt too wide) in paragraph at lines 844--844
 [][] 
  []
 
 
-Overfull \vbox (1.
+Overfull \hbox (3.33537pt too wide) has occurred while \output is active
+  []\T1/lmss/m/n/6 Testing Linear Constraints over Interleaved Reed-Solomon Cod
+es[] 
+ []
+
+
+Overfull \hbox (13.40857pt too wide) has occurred while \output is active
+  []\T1/lmss/m/n/6 Testing Quadratic Constraints over Interleaved Reed-Solomon 
+Codes[] 
+ []
+
+
+Overfull \vbox (0.63403pt too high) has occurred while \output is active []
+
+
+Overfull \hbox (17.4586pt too wide) has occurred while \output is active
+ [][][][] 
+ []
+
+[23
+
+]
+Overfull \hbox (3.33537pt too wide) has occurred while \output is active
+  []\T1/lmss/m/n/6 Testing Linear Constraints over Interleaved Reed-Solomon Cod
+es[] 
+ []
+
+
+Overfull \hbox (13.40857pt too wide) has occurred while \output is active
+  []\T1/lmss/m/n/6 Testing Quadratic Constraints over Interleaved Reed-Solomon 
+Codes[] 
+ []
+
+
+Overfull \vbox (0.63403pt too high) has occurred while \output is active []
+
+
+Overfull \hbox (17.4586pt too wide) has occurred while \output is active
+ [][][][] 
+ []
+
+[24
+
+]
+Overfull \hbox (3.33537pt too wide) has occurred while \output is active
+  []\T1/lmss/m/n/6 Testing Linear Constraints over Interleaved Reed-Solomon Cod
+es[] 
+ []
+
+
+Overfull \hbox (13.40857pt too wide) has occurred while \output is active
+  []\T1/lmss/m/n/6 Testing Quadratic Constraints over Interleaved Reed-Solomon 
+Codes[] 
+ []
+
+
+Overfull \vbox (0.63403pt too high) has occurred while \output is active []
+
+
+Overfull \hbox (17.4586pt too wide) has occurred while \output is active
+ [][][][] 
+ []
+
+[25
+
+]
+Overfull \hbox (3.33537pt too wide) has occurred while \output is active
+  []\T1/lmss/m/n/6 Testing Linear Constraints over Interleaved Reed-Solomon Cod
+es[] 
+ []
+
+
+Overfull \hbox (13.40857pt too wide) has occurred while \output is active
+  []\T1/lmss/m/n/6 Testing Quadratic Constraints over Interleaved Reed-Solomon 
+Codes[] 
+ []
+
+
+Overfull \vbox (0.63403pt too high) has occurred while \output is active []
+
+
+Overfull \hbox (17.4586pt too wide) has occurred while \output is active
+ [][][][] 
+ []
+
+[26
+
+]
+Overfull \hbox (3.33537pt too wide) has occurred while \output is active
+  []\T1/lmss/m/n/6 Testing Linear Constraints over Interleaved Reed-Solomon Cod
+es[] 
+ []
+
+
+Overfull \hbox (13.40857pt too wide) has occurred while \output is active
+  []\T1/lmss/m/n/6 Testing Quadratic Constraints over Interleaved Reed-Solomon 
+Codes[] 
+ []
+
+
+Overfull \vbox (0.63403pt too high) has occurred while \output is active []
+
+
+Overfull \hbox (17.4586pt too wide) has occurred while \output is active
+ [][][][] 
+ []
+
+[27
+
+]
+Overfull \hbox (3.33537pt too wide) has occurred while \output is active
+  []\T1/lmss/m/n/6 Testing Linear Constraints over Interleaved Reed-Solomon Cod
+es[] 
+ []
+
+
+Overfull \hbox (13.40857pt too wide) has occurred while \output is active
+  []\T1/lmss/m/n/6 Testing Quadratic Constraints over Interleaved Reed-Solomon 
+Codes[] 
+ []
+
+
+Overfull \vbox (0.63403pt too high) has occurred while \output is active []
+
+
+Overfull \hbox (17.4586pt too wide) has occurred while \output is active
+ [][][][] 
+ []
+
+[28
+
+]
+\tf@nav=\write7
+\openout7 = `Defense.nav'.
+
+\tf@toc=\write8
+\openout8 = `Defense.toc'.
+
+\tf@snm=\write9
+\openout9 = `Defense.snm'.
+
+
+
+Package caption Warning: Unused \captionsetup[sub] on input line 83.
+See the caption package documentation for explanation.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 876.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 876.
+(./Defense.aux)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 876.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 876.
+Package rerunfilecheck Info: File `Defense.out' has not changed.
+(rerunfilecheck)             Checksum: 9709BAAEC4B65C98285EC89AA99A3D61;463.
+ ) 
+Here is how much of TeX's memory you used:
+ 44073 strings out of 479418
+ 974176 string characters out of 5884586
+ 1265376 words of memory out of 5000000
+ 60717 multiletter control sequences out of 15000+600000
+ 570762 words of font info for 64 fonts, out of 8000000 for 9000
+ 1351 hyphenation exceptions out of 8191
+ 58i,19n,89p,1583b,717s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on Defense.pdf (28 pages).
